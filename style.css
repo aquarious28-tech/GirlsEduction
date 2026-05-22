@@ -1,13 +1,13 @@
 body {
   font-family: 'Segoe UI', sans-serif;
   background-color: #f0f8ff;
-  color: #FF0000;
+  color: #333;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #FF0000;
+  background-color: #2e8b57;
   color: white;
   text-align: center;
   padding: 20px;
@@ -31,17 +31,9 @@ section {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
-section h2 {
-  color: #FF0000;
-}
-
-section p {
-  color: #FF0000;
-}
-
 footer {
   text-align: center;
-  background-color: #FF0000;
+  background-color: #2e8b57;
   color: white;
   padding: 10px;
 }
