@@ -7,7 +7,7 @@ body {
 }
 
 header {
-  background-color: #2e8b57;
+  background-color: #000000;
   color: white;
   text-align: center;
   padding: 20px;
@@ -31,9 +31,17 @@ section {
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
+section h2 {
+  color: white;
+}
+
+section p {
+  color: white;
+}
+
 footer {
   text-align: center;
-  background-color: #2e8b57;
+  background-color: #000000;
   color: white;
   padding: 10px;
 }
