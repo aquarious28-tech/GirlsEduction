@@ -1,6 +1,6 @@
 # Girls' Education Website 🌍
 
-This is a Class 9 project about **Girls' Education**.  
+This is a Class 8 project about **Girls' Education** made by Ritisha Data.  
 It highlights the importance of education for girls, global challenges, and local action plans.
 
 ## Pages
